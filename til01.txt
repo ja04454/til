@@ -1,5 +1,5 @@
 -------------------------------------------------------------------
-|		 TIL (Today I Learned)		|
+|		                   TIL (Today I Learned)	                      |
 -------------------------------------------------------------------
  Git - 버전관리 도구
  Github - 원격 저장소 + 커뮤니티
@@ -11,7 +11,7 @@
  순서
  git 초기화 - add(staging) - commit
 -------------------------------------------------------------------
-                [원격 repo] : 다른곳에서 접속할 수 있는 repo
-pull(clone)  ↙______↖ push (tracking/ branch tracking)
-                  commit
-                [로컬 repo] : 내 컴퓨터에 저장된 repo
+             [원격 repo] : 다른곳에서 접속할 수 있는 repo
+  pull(clone) ↙______↖ push (tracking/ branch tracking)
+               commit
+            [로컬 repo] : 내 컴퓨터에 저장된 repo
